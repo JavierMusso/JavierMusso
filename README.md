@@ -26,7 +26,7 @@
 
 - Also, <a href="https://twitter.com/javiermusso2" target="blank">deployed</a> the app using Heroku and Vercel.
 
-- <a href='https://pi-videogames-jm.vercel.app/' target='blank' ><img align="" width="350px" src='./assets/project1.png'></a>
+- <a href='https://pi-videogames-jm.vercel.app/' target='_blank' ><img align="" width="350px" src='./assets/project1.png'></a>
 
 <h3 align="left">✨ Find me at:</h3>
 <p align="left">
