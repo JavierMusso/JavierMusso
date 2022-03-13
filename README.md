@@ -1,4 +1,4 @@
-<h2 align="center">Hey there! I'm Javier Musso</h2>
+<h2 align="center">Hey there! 👋 I'm Javier Musso</h2>
 <h3 align="center">A developer who loves to learn new things. I'm 25 years old, from Argentina and always wanted to swap and work in the IT world.</h3>
 </br>
 <hr>
@@ -26,7 +26,12 @@
 
 - Also, <a href="https://twitter.com/javiermusso2" target="blank">deployed</a> the app using Heroku and Vercel.
 
-- <a href='https://pi-videogames-jm.vercel.app/' target="_blank" rel="noreferrer" ><img align="" width="350px" src='./assets/project1.png'></a>
+<a href='https://pi-videogames-jm.vercel.app/' target="_blank" rel="noreferrer" ><img src='./assets/project1.png'></a>
+
+- <h3>Visit the live demo <a href='https://pi-videogames-jm.vercel.app/'>here</a>!</h3>
+
+<hr>
+<br>
 
 <h3 align="left">✨ Find me at:</h3>
 <p align="left">
